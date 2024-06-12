@@ -1,0 +1,500 @@
+plot,trt,trt2,spp,anpp
+N0-1,N0,N0,Anemone?rivularis,14.6
+N0-1,N0,N0,Elymus?nutans,2.1692
+N0-1,N0,N0,Potentilla?anserina,7.72
+N0-1,N0,N0,Deschampsia?caespitosa,11.4
+N0-1,N0,N0,Oxytropis?kansuensis,9.44
+N0-1,N0,N0,Ranunculus?japonicus,0.2116
+N0-1,N0,N0,Aster?alpinus,0.5092
+N0-1,N0,N0,Carum?carvi,4.6
+N0-1,N0,N0,Gentiana sino-ornata,131.76
+N0-1,N0,N0,Ligularia?virgaurea,25.88
+N0-1,N0,N0,Artemisia?roxburghiana,7.4
+N0-1,N0,N0,Leontopodium leontopodioides,0.0272
+N0-1,N0,N0,Commelina diffusa,0.2408
+N0-1,N0,N0,Taraxacum?mongolicum,8.68
+N0-1,N0,N0,Euphorbia?esula?,33.32
+N0-1,N0,N0,Koeleria cristata,5.56
+N0-1,N0,N0,Carex?limosa,5.4
+N0-1,N0,N0,Cremanthodium?lineare,32.88
+N0-1,N0,N0,Vicia?sepium,1.8472
+N0-1,N0,N0,Saussurea?stella,0.2524
+N0-1,N0,N0,Poa?pratensis,0.8664
+N0-1,N0,N0,Cerastium?arvense,0.0332
+N0-1,N0,N0,Trollius?chinensis,0.1772
+N0-2,N0,N0,Anemone?rivularis,38.76
+N0-2,N0,N0,Deschampsia?caespitosa,20.6
+N0-2,N0,N0,Oxytropis?kansuensis,3.52
+N0-2,N0,N0,Aster?alpinus,47.4
+N0-2,N0,N0,Carum?carvi,0.4444
+N0-2,N0,N0,Commelina diffusa,1.8068
+N0-2,N0,N0,Artemisia?frigida,18.48
+N0-2,N0,N0,Halenia?elliptica,0.3592
+N0-2,N0,N0,Pedicularis?spicata,5.8
+N0-2,N0,N0,Potentilla?fragarioides,6.88
+N0-2,N0,N0,Taraxacum?mongolicum,1.48
+N0-2,N0,N0,Lancea?tibetica,3.074
+N0-2,N0,N0,Euphorbia?esula?,17.8
+N0-2,N0,N0,Kobresia?myosuroides,8.8
+N0-2,N0,N0,Koeleria cristata,0.7716
+N0-2,N0,N0,Carex?limosa,4.8
+N0-2,N0,N0,Cremanthodium?lineare,32.96
+N0-2,N0,N0,Vicia?sepium,5.32
+N0-2,N0,N0,Euphrasia?pectinata,0.7312
+N0-2,N0,N0,Polygonum?viviparum,113.48
+N0-2,N0,N0,Anaphalis?lactea,1.2244
+N0-3,N0,N0,Anemone?rivularis,9.32
+N0-3,N0,N0,Elymus?nutans,7.24
+N0-3,N0,N0,Potentilla?anserina,14.8
+N0-3,N0,N0,Deschampsia?caespitosa,40.48
+N0-3,N0,N0,Oxytropis?kansuensis,1.44
+N0-3,N0,N0,Carum?carvi,10.76
+N0-3,N0,N0,Ligularia?virgaurea,9.6
+N0-3,N0,N0,Artemisia?roxburghiana,2.08
+N0-3,N0,N0,Geranium pratense,0.0656
+N0-3,N0,N0,Pedicularis?spicata,6.68
+N0-3,N0,N0,Potentilla?fragarioides,11.96
+N0-3,N0,N0,Taraxacum?mongolicum,0.15
+N0-3,N0,N0,Euphorbia?esula?,105
+N0-3,N0,N0,Kobresia?myosuroides,36.52
+N0-3,N0,N0,Koeleria cristata,12.56
+N0-3,N0,N0,Carex?limosa,23.64
+N0-3,N0,N0,Cremanthodium?lineare,39.2
+N0-3,N0,N0,Vicia?sepium,4.72
+N0-4,N0,N0,Anemone?rivularis,3.12
+N0-4,N0,N0,Elymus?nutans,0.34
+N0-4,N0,N0,Potentilla?anserina,1.448
+N0-4,N0,N0,Deschampsia?caespitosa,35.68
+N0-4,N0,N0,Oxytropis?kansuensis,0.7768
+N0-4,N0,N0,Aster?alpinus,0.7928
+N0-4,N0,N0,Carum?carvi,1.2724
+N0-4,N0,N0,Gentiana sino-ornata,1.2916
+N0-4,N0,N0,Artemisia?roxburghiana,0.078
+N0-4,N0,N0,Geranium pratense,4.88
+N0-4,N0,N0,Artemisia?frigida,0.1676
+N0-4,N0,N0,Potentilla?fragarioides,1.88
+N0-4,N0,N0,Taraxacum?mongolicum,3.08
+N0-4,N0,N0,Lancea?tibetica,0.0072
+N0-4,N0,N0,Euphorbia?esula?,90.8
+N0-4,N0,N0,Kobresia?myosuroides,20.08
+N0-4,N0,N0,Koeleria cristata,6.4
+N0-4,N0,N0,Carex?limosa,3.72
+N0-4,N0,N0,Cremanthodium?lineare,10.48
+N0-4,N0,N0,Vicia?sepium,9.8
+N0-4,N0,N0,Saussurea?stella,27.72
+N0-4,N0,N0,Polygonum?viviparum,116.04
+N0-5,N0,N0,Anemone?rivularis,8.28
+N0-5,N0,N0,Elymus?nutans,1.4688
+N0-5,N0,N0,Potentilla?anserina,37.12
+N0-5,N0,N0,Deschampsia?caespitosa,40.24
+N0-5,N0,N0,Oxytropis?kansuensis,3.28
+N0-5,N0,N0,Ranunculus?japonicus,0.8296
+N0-5,N0,N0,Aster?alpinus,0.67
+N0-5,N0,N0,Carum?carvi,0.0836
+N0-5,N0,N0,Artemisia?roxburghiana,8.36
+N0-5,N0,N0,Commelina diffusa,0.4372
+N0-5,N0,N0,Geum?aleppicum,0.7344
+N0-5,N0,N0,Pedicularis?spicata,34
+N0-5,N0,N0,Taraxacum?mongolicum,2.1636
+N0-5,N0,N0,Lancea?tibetica,0.3124
+N0-5,N0,N0,Euphorbia?esula?,9.52
+N0-5,N0,N0,Koeleria cristata,2.3328
+N0-5,N0,N0,Carex?limosa,14.52
+N0-5,N0,N0,Vicia?sepium,0.0356
+N0-5,N0,N0,Polygonum?viviparum,68.36
+N2-1,N2,N+,Anemone?rivularis,23.64
+N2-1,N2,N+,Elymus?nutans,3.44
+N2-1,N2,N+,Deschampsia?caespitosa,48.04
+N2-1,N2,N+,Oxytropis?kansuensis,1.3672
+N2-1,N2,N+,Aster?alpinus,13.52
+N2-1,N2,N+,Carum?carvi,14.48
+N2-1,N2,N+,Artemisia?roxburghiana,3.6
+N2-1,N2,N+,Commelina diffusa,0.1944
+N2-1,N2,N+,Geranium pratense,5.84
+N2-1,N2,N+,Artemisia?frigida,5.48
+N2-1,N2,N+,Halenia?elliptica,0.342
+N2-1,N2,N+,Pedicularis?spicata,1.0536
+N2-1,N2,N+,Potentilla?fragarioides,9.2
+N2-1,N2,N+,Taraxacum?mongolicum,2.64
+N2-1,N2,N+,Lancea?tibetica,0.03
+N2-1,N2,N+,Euphorbia?esula?,55.08
+N2-1,N2,N+,Kobresia?myosuroides,14.72
+N2-1,N2,N+,Koeleria cristata,11.08
+N2-1,N2,N+,Carex?limosa,27.04
+N2-1,N2,N+,Cremanthodium?lineare,8.84
+N2-1,N2,N+,Polygonum?viviparum,82.24
+N2-1,N2,N+,Chamaesium?paradoxum,0.2224
+N2-2,N2,N+,Anemone?rivularis,16.24
+N2-2,N2,N+,Elymus?nutans,6.48
+N2-2,N2,N+,Potentilla?anserina,2.4476
+N2-2,N2,N+,Deschampsia?caespitosa,51.6
+N2-2,N2,N+,Carum?carvi,2.6028
+N2-2,N2,N+,Artemisia?roxburghiana,0.1352
+N2-2,N2,N+,Commelina diffusa,0.176
+N2-2,N2,N+,Artemisia?frigida,0.0588
+N2-2,N2,N+,Taraxacum?mongolicum,2.2
+N2-2,N2,N+,Lancea?tibetica,0.5908
+N2-2,N2,N+,Euphorbia?esula?,120.84
+N2-2,N2,N+,Kobresia?myosuroides,7.6
+N2-2,N2,N+,Koeleria cristata,1.762
+N2-2,N2,N+,Carex?limosa,25.44
+N2-2,N2,N+,Cremanthodium?lineare,8.2
+N2-2,N2,N+,Vicia?sepium,7.84
+N2-2,N2,N+,Polygonum?viviparum,114.4
+N2-3,N2,N+,Anemone?rivularis,41.12
+N2-3,N2,N+,Potentilla?anserina,26.8
+N2-3,N2,N+,Deschampsia?caespitosa,31.28
+N2-3,N2,N+,Oxytropis?kansuensis,5
+N2-3,N2,N+,Allium?sikkimense,0.0232
+N2-3,N2,N+,Aster?alpinus,9.44
+N2-3,N2,N+,Carum?carvi,19.88
+N2-3,N2,N+,Ligularia?virgaurea,186.4
+N2-3,N2,N+,Artemisia?roxburghiana,0.0628
+N2-3,N2,N+,Commelina diffusa,0.1336
+N2-3,N2,N+,Geranium pratense,0.0516
+N2-3,N2,N+,Pedicularis?spicata,34.6
+N2-3,N2,N+,Potentilla?fragarioides,12.2
+N2-3,N2,N+,Taraxacum?mongolicum,3.52
+N2-3,N2,N+,Euphorbia?esula?,18.8
+N2-3,N2,N+,Kobresia?myosuroides,0.5016
+N2-3,N2,N+,Koeleria cristata,8.64
+N2-3,N2,N+,Carex?limosa,17.16
+N2-3,N2,N+,Cremanthodium?lineare,10.52
+N2-3,N2,N+,Vicia?sepium,3.68
+N2-3,N2,N+,Euphrasia?pectinata,1.1988
+N2-3,N2,N+,Anaphalis?lactea,0.2932
+N2-4,N2,N+,Anemone?rivularis,18.64
+N2-4,N2,N+,Potentilla?anserina,8.32
+N2-4,N2,N+,Deschampsia?caespitosa,32.36
+N2-4,N2,N+,Oxytropis?kansuensis,5.6
+N2-4,N2,N+,Aster?alpinus,14.08
+N2-4,N2,N+,Carum?carvi,0.028
+N2-4,N2,N+,Artemisia?roxburghiana,0.636
+N2-4,N2,N+,Leontopodium leontopodioides,0.046
+N2-4,N2,N+,Commelina diffusa,0.4276
+N2-4,N2,N+,Geranium pratense,0.2264
+N2-4,N2,N+,Artemisia?frigida,0.1032
+N2-4,N2,N+,Halenia?elliptica,3.4
+N2-4,N2,N+,Pedicularis?spicata,23
+N2-4,N2,N+,Potentilla?fragarioides,0.2368
+N2-4,N2,N+,Taraxacum?mongolicum,0.1332
+N2-4,N2,N+,Lancea?tibetica,0.4084
+N2-4,N2,N+,Euphorbia?esula?,153
+N2-4,N2,N+,Kobresia?myosuroides,13.84
+N2-4,N2,N+,Koeleria cristata,4.32
+N2-4,N2,N+,Carex?limosa,16.76
+N2-4,N2,N+,Cremanthodium?lineare,3.96
+N2-4,N2,N+,Vicia?sepium,3.72
+N2-4,N2,N+,Euphrasia?pectinata,0.1356
+N2-4,N2,N+,Polygonum?viviparum,2.76
+N2-4,N2,N+,#N/A,1.5016
+N2-5,N2,N+,Anemone?rivularis,4.88
+N2-5,N2,N+,Elymus?nutans,17.44
+N2-5,N2,N+,Potentilla?anserina,1.626
+N2-5,N2,N+,Deschampsia?caespitosa,44.36
+N2-5,N2,N+,Ligularia?virgaurea,41.32
+N2-5,N2,N+,Artemisia?roxburghiana,2.4
+N2-5,N2,N+,Geranium pratense,2.7652
+N2-5,N2,N+,Potentilla?fragarioides,0.6476
+N2-5,N2,N+,Euphorbia?esula?,150.56
+N2-5,N2,N+,Kobresia?myosuroides,6.4
+N2-5,N2,N+,Koeleria cristata,9.4
+N2-5,N2,N+,Carex?limosa,12.4
+N2-5,N2,N+,Vicia?sepium,0.8456
+N2-5,N2,N+,Polygonum?viviparum,111.92
+N2-5,N2,N+,Chamaesium?paradoxum,0.1256
+N2-5,N2,N+,Festuca?rubra,2.48
+N4-1,N4,N+,Anemone?rivularis,3.88
+N4-1,N4,N+,Elymus?nutans,4.88
+N4-1,N4,N+,Potentilla?anserina,4.04
+N4-1,N4,N+,Deschampsia?caespitosa,66.52
+N4-1,N4,N+,Oxytropis?kansuensis,1.096
+N4-1,N4,N+,Carum?carvi,30.52
+N4-1,N4,N+,Ligularia?virgaurea,26
+N4-1,N4,N+,Artemisia?roxburghiana,1.3364
+N4-1,N4,N+,Taraxacum?mongolicum,10.68
+N4-1,N4,N+,Lancea?tibetica,0.4272
+N4-1,N4,N+,Euphorbia?esula?,87.76
+N4-1,N4,N+,Koeleria cristata,5.84
+N4-1,N4,N+,Carex?limosa,74.52
+N4-1,N4,N+,Cremanthodium?lineare,1.5128
+N4-1,N4,N+,Vicia?sepium,0.8888
+N4-1,N4,N+,Trollius?chinensis,0.0448
+N4-2,N4,N+,Anemone?rivularis,26.76
+N4-2,N4,N+,Potentilla?anserina,2.2608
+N4-2,N4,N+,Deschampsia?caespitosa,20.64
+N4-2,N4,N+,Oxytropis?kansuensis,0.906
+N4-2,N4,N+,Ranunculus?japonicus,0.476
+N4-2,N4,N+,Aster?alpinus,0.0752
+N4-2,N4,N+,Carum?carvi,0.086
+N4-2,N4,N+,Commelina diffusa,0.2888
+N4-2,N4,N+,Geranium pratense,1.618
+N4-2,N4,N+,Artemisia?frigida,10.04
+N4-2,N4,N+,Pedicularis?spicata,27.6
+N4-2,N4,N+,Potentilla?fragarioides,7.28
+N4-2,N4,N+,Taraxacum?mongolicum,1.3928
+N4-2,N4,N+,Lancea?tibetica,0.0232
+N4-2,N4,N+,Euphorbia?esula?,64.84
+N4-2,N4,N+,Kobresia?myosuroides,2.4436
+N4-2,N4,N+,Koeleria cristata,4.76
+N4-2,N4,N+,Carex?limosa,11.24
+N4-2,N4,N+,Cremanthodium?lineare,19.2
+N4-2,N4,N+,Vicia?sepium,1.0544
+N4-2,N4,N+,Euphrasia?pectinata,0.616
+N4-2,N4,N+,Polygonum?viviparum,75.16
+N4-2,N4,N+,Cerastium?arvense,0.3092
+N4-3,N4,N+,Anemone?rivularis,34.92
+N4-3,N4,N+,Potentilla?anserina,1.972
+N4-3,N4,N+,Deschampsia?caespitosa,159.36
+N4-3,N4,N+,Oxytropis?kansuensis,0.5748
+N4-3,N4,N+,Allium?sikkimense,18.48
+N4-3,N4,N+,Gentiana sino-ornata,2.034
+N4-3,N4,N+,Geranium pratense,0.1124
+N4-3,N4,N+,Galium?aparine,32.88
+N4-3,N4,N+,Pedicularis?spicata,0.2224
+N4-3,N4,N+,Taraxacum?mongolicum,2.8
+N4-3,N4,N+,Euphorbia?esula?,53.56
+N4-3,N4,N+,Kobresia?myosuroides,65.2
+N4-3,N4,N+,Koeleria cristata,2.3864
+N4-3,N4,N+,Carex?limosa,49.12
+N4-3,N4,N+,Cremanthodium?lineare,10.12
+N4-3,N4,N+,Vicia?sepium,6.2
+N4-3,N4,N+,Poa?pratensis,1.6012
+N4-3,N4,N+,Polygonum?viviparum,22.04
+N4-4,N4,N+,Anemone?rivularis,13.96
+N4-4,N4,N+,Elymus?nutans,1.9136
+N4-4,N4,N+,Potentilla?anserina,1.8408
+N4-4,N4,N+,Deschampsia?caespitosa,114
+N4-4,N4,N+,Oxytropis?kansuensis,0.2936
+N4-4,N4,N+,Ranunculus?japonicus,0.1372
+N4-4,N4,N+,Carum?carvi,2.12
+N4-4,N4,N+,Commelina diffusa,0.0356
+N4-4,N4,N+,Geranium pratense,2.4456
+N4-4,N4,N+,Artemisia?frigida,0.24
+N4-4,N4,N+,Taraxacum?mongolicum,0.1688
+N4-4,N4,N+,Euphorbia?esula?,97.16
+N4-4,N4,N+,Kobresia?myosuroides,53.2
+N4-4,N4,N+,Koeleria cristata,11.12
+N4-4,N4,N+,Carex?limosa,29.44
+N4-4,N4,N+,Cremanthodium?lineare,5.04
+N4-4,N4,N+,Vicia?sepium,3.72
+N4-4,N4,N+,Polygonum?viviparum,140
+N4-4,N4,N+,Delphinium?grandiflorum,1.1148
+N4-4,N4,N+,Cerastium?arvense,0.7392
+N4-5,N4,N+,Elymus?nutans,25.68
+N4-5,N4,N+,Potentilla?anserina,6.24
+N4-5,N4,N+,Deschampsia?caespitosa,41.64
+N4-5,N4,N+,Carum?carvi,2.8
+N4-5,N4,N+,Ligularia?virgaurea,93.52
+N4-5,N4,N+,Artemisia?roxburghiana,1.036
+N4-5,N4,N+,Commelina diffusa,0.78
+N4-5,N4,N+,Geranium pratense,0.1248
+N4-5,N4,N+,Galium?aparine,0.53
+N4-5,N4,N+,Taraxacum?mongolicum,10.84
+N4-5,N4,N+,Euphorbia?esula?,234.84
+N4-5,N4,N+,Koeleria cristata,4.48
+N4-5,N4,N+,Carex?limosa,27.64
+N4-5,N4,N+,Vicia?sepium,0.6192
+N4-5,N4,N+,Angelica?apaensis,0.296
+N8-1,N8,N+,Anemone?rivularis,1.7052
+N8-1,N8,N+,Elymus?nutans,9.52
+N8-1,N8,N+,Potentilla?anserina,8.4
+N8-1,N8,N+,Deschampsia?caespitosa,82.24
+N8-1,N8,N+,Ranunculus?japonicus,0.3292
+N8-1,N8,N+,Carum?carvi,1.284
+N8-1,N8,N+,Commelina diffusa,0.8056
+N8-1,N8,N+,Taraxacum?mongolicum,7.6
+N8-1,N8,N+,Lancea?tibetica,1.3372
+N8-1,N8,N+,Euphorbia?esula?,8.04
+N8-1,N8,N+,Kobresia?myosuroides,4.04
+N8-1,N8,N+,Koeleria cristata,11.76
+N8-1,N8,N+,Carex?limosa,7.24
+N8-1,N8,N+,Cremanthodium?lineare,1.2484
+N8-1,N8,N+,Vicia?sepium,1.2436
+N8-1,N8,N+,Polygonum?viviparum,47.72
+N8-1,N8,N+,Festuca?rubra,3.72
+N8-2,N8,N+,Anemone?rivularis,0.9968
+N8-2,N8,N+,Elymus?nutans,4.92
+N8-2,N8,N+,Potentilla?anserina,10.36
+N8-2,N8,N+,Deschampsia?caespitosa,45.04
+N8-2,N8,N+,Carum?carvi,106.76
+N8-2,N8,N+,Gentiana sino-ornata,7.64
+N8-2,N8,N+,Ligularia?virgaurea,68.8
+N8-2,N8,N+,Artemisia?roxburghiana,0.8528
+N8-2,N8,N+,Geranium pratense,0.0172
+N8-2,N8,N+,Taraxacum?mongolicum,20.32
+N8-2,N8,N+,Euphorbia?esula?,3.52
+N8-2,N8,N+,Koeleria cristata,6.44
+N8-2,N8,N+,Carex?limosa,58.08
+N8-2,N8,N+,Cremanthodium?lineare,24.92
+N8-2,N8,N+,Vicia?sepium,1.268
+N8-2,N8,N+,Saussurea?stella,3.44
+N8-3,N8,N+,Anemone?rivularis,9.2
+N8-3,N8,N+,Elymus?nutans,2.32
+N8-3,N8,N+,Potentilla?anserina,1.91
+N8-3,N8,N+,Deschampsia?caespitosa,101.6
+N8-3,N8,N+,Allium?sikkimense,0.4836
+N8-3,N8,N+,Aster?alpinus,0.3132
+N8-3,N8,N+,Carum?carvi,7.2
+N8-3,N8,N+,Commelina diffusa,0.0476
+N8-3,N8,N+,Artemisia?frigida,0.0812
+N8-3,N8,N+,Taraxacum?mongolicum,2.44
+N8-3,N8,N+,Euphorbia?esula?,88.24
+N8-3,N8,N+,Kobresia?myosuroides,54.32
+N8-3,N8,N+,Koeleria cristata,9.36
+N8-3,N8,N+,Carex?limosa,52.04
+N8-3,N8,N+,Anemone?trullifolia,0.3844
+N8-3,N8,N+,Vicia?sepium,0.822
+N8-3,N8,N+,Saussurea?stella,7.2
+N8-4,N8,N+,Anemone?rivularis,10.36
+N8-4,N8,N+,Elymus?nutans,0.92
+N8-4,N8,N+,Saussurea?nigrescens,104.88
+N8-4,N8,N+,Potentilla?anserina,0.7576
+N8-4,N8,N+,Deschampsia?caespitosa,71.04
+N8-4,N8,N+,Oxytropis?kansuensis,0.0916
+N8-4,N8,N+,Geranium pratense,2.5432
+N8-4,N8,N+,Galium?aparine,26
+N8-4,N8,N+,Taraxacum?mongolicum,0.2384
+N8-4,N8,N+,Euphorbia?esula?,14.72
+N8-4,N8,N+,Kobresia?myosuroides,13.76
+N8-4,N8,N+,Koeleria cristata,1.9672
+N8-4,N8,N+,Carex?limosa,49.68
+N8-4,N8,N+,Cremanthodium?lineare,0.538
+N8-4,N8,N+,Anemone?trullifolia,1.5404
+N8-4,N8,N+,Vicia?sepium,2.36
+N8-4,N8,N+,Polygonum?viviparum,124.16
+N8-5,N8,N+,Anemone?rivularis,12.68
+N8-5,N8,N+,Elymus?nutans,0.8948
+N8-5,N8,N+,Saussurea?nigrescens,0.7192
+N8-5,N8,N+,Potentilla?anserina,1.756
+N8-5,N8,N+,Deschampsia?caespitosa,67.84
+N8-5,N8,N+,Ranunculus?japonicus,0.0636
+N8-5,N8,N+,Agrostis matsumurae,0.856
+N8-5,N8,N+,Commelina diffusa,0.1552
+N8-5,N8,N+,Geranium pratense,0.018
+N8-5,N8,N+,Euphorbia?esula?,126.04
+N8-5,N8,N+,Kobresia?myosuroides,22.6
+N8-5,N8,N+,Koeleria cristata,0.6284
+N8-5,N8,N+,Carex?limosa,42.12
+N8-5,N8,N+,Vicia?sepium,1.286
+N8-5,N8,N+,Polygonum?viviparum,105.8
+N16-1,N16,N+,Anemone?rivularis,0.6256
+N16-1,N16,N+,Elymus?nutans,30.24
+N16-1,N16,N+,Potentilla?anserina,3.4
+N16-1,N16,N+,Deschampsia?caespitosa,56
+N16-1,N16,N+,Oxytropis?kansuensis,0.1684
+N16-1,N16,N+,Carum?carvi,12.6
+N16-1,N16,N+,Ligularia?virgaurea,5.56
+N16-1,N16,N+,Artemisia?roxburghiana,0.0628
+N16-1,N16,N+,Commelina diffusa,0.2228
+N16-1,N16,N+,Taraxacum?mongolicum,0.6864
+N16-1,N16,N+,Euphorbia?esula?,35.8
+N16-1,N16,N+,Koeleria cristata,9.44
+N16-1,N16,N+,Carex?limosa,32.84
+N16-1,N16,N+,Cremanthodium?lineare,37.12
+N16-1,N16,N+,Polygonum?viviparum,110.96
+N16-2,N16,N+,Anemone?rivularis,2.1936
+N16-2,N16,N+,Elymus?nutans,104.12
+N16-2,N16,N+,Potentilla?anserina,4.68
+N16-2,N16,N+,Deschampsia?caespitosa,96.08
+N16-2,N16,N+,Oxytropis?kansuensis,0.364
+N16-2,N16,N+,Ranunculus?japonicus,0.5708
+N16-2,N16,N+,Carum?carvi,102.92
+N16-2,N16,N+,Ligularia?virgaurea,0.6368
+N16-2,N16,N+,Commelina diffusa,0.6948
+N16-2,N16,N+,Geranium pratense,0.0952
+N16-2,N16,N+,Galium?aparine,20.88
+N16-2,N16,N+,Taraxacum?mongolicum,6.08
+N16-2,N16,N+,Euphorbia?esula?,0.05
+N16-2,N16,N+,Kobresia?myosuroides,2.92
+N16-2,N16,N+,Carex?limosa,65.32
+N16-2,N16,N+,Cremanthodium?lineare,6.72
+N16-2,N16,N+,Vicia?sepium,1.6288
+N16-2,N16,N+,Polygonum?viviparum,1.7284
+N16-2,N16,N+,Cerastium?arvense,0.0728
+N16-3,N16,N+,Anemone?rivularis,0.2268
+N16-3,N16,N+,Elymus?nutans,20.76
+N16-3,N16,N+,Deschampsia?caespitosa,39.92
+N16-3,N16,N+,Agrostis matsumurae,5
+N16-3,N16,N+,Commelina diffusa,1.6228
+N16-3,N16,N+,Koeleria cristata,81.44
+N16-3,N16,N+,Carex?limosa,26.36
+N16-3,N16,N+,Cremanthodium?lineare,41.52
+N16-3,N16,N+,Saussurea?stella,6.48
+N16-3,N16,N+,Polygonum?viviparum,26.84
+N16-4,N16,N+,Anemone?rivularis,0.0944
+N16-4,N16,N+,Elymus?nutans,29.32
+N16-4,N16,N+,Potentilla?anserina,0.3656
+N16-4,N16,N+,Deschampsia?caespitosa,128.88
+N16-4,N16,N+,Allium?sikkimense,2.4252
+N16-4,N16,N+,Ligularia?virgaurea,22.88
+N16-4,N16,N+,Agrostis matsumurae,1.3632
+N16-4,N16,N+,Euphorbia?esula?,67.16
+N16-4,N16,N+,Kobresia?myosuroides,31.92
+N16-4,N16,N+,Koeleria cristata,16.68
+N16-4,N16,N+,Carex?limosa,25.48
+N16-4,N16,N+,Cremanthodium?lineare,4.28
+N16-4,N16,N+,Vicia?sepium,0.18
+N16-4,N16,N+,Polygonum?viviparum,16.2
+N16-5,N16,N+,Anemone?rivularis,0.1
+N16-5,N16,N+,Elymus?nutans,9.44
+N16-5,N16,N+,Potentilla?anserina,0.4784
+N16-5,N16,N+,Deschampsia?caespitosa,99.12
+N16-5,N16,N+,Carum?carvi,5.28
+N16-5,N16,N+,Ligularia?virgaurea,0.8152
+N16-5,N16,N+,Artemisia?roxburghiana,0.0844
+N16-5,N16,N+,Agrostis matsumurae,0.3008
+N16-5,N16,N+,Taraxacum?mongolicum,4.4
+N16-5,N16,N+,Euphorbia?esula?,57.16
+N16-5,N16,N+,Kobresia?myosuroides,18.44
+N16-5,N16,N+,Koeleria cristata,1.8664
+N16-5,N16,N+,Carex?limosa,68.36
+N16-5,N16,N+,Cremanthodium?lineare,1.348
+N16-5,N16,N+,Vicia?sepium,0.5256
+N16-5,N16,N+,Polygonum?viviparum,69.8
+N32-1,N32,N+,Elymus?nutans,58.44
+N32-1,N32,N+,Deschampsia?caespitosa,36.92
+N32-1,N32,N+,Carum?carvi,16.12
+N32-1,N32,N+,Taraxacum?mongolicum,5.2
+N32-1,N32,N+,Koeleria cristata,11.96
+N32-1,N32,N+,Carex?limosa,155.52
+N32-1,N32,N+,Cremanthodium?lineare,0.0992
+N32-2,N32,N+,Anemone?rivularis,1.4808
+N32-2,N32,N+,Elymus?nutans,86.92
+N32-2,N32,N+,Deschampsia?caespitosa,44.84
+N32-2,N32,N+,Carum?carvi,2.5464
+N32-2,N32,N+,Ligularia?virgaurea,1.614
+N32-2,N32,N+,Taraxacum?mongolicum,25.16
+N32-2,N32,N+,Kobresia?myosuroides,4.532
+N32-2,N32,N+,Koeleria cristata,18.2
+N32-2,N32,N+,Carex?limosa,94.64
+N32-2,N32,N+,Saussurea?stella,87.36
+N32-2,N32,N+,Polygonum?viviparum,0.0944
+N32-3,N32,N+,Elymus?nutans,10.12
+N32-3,N32,N+,Deschampsia?caespitosa,64.88
+N32-3,N32,N+,Carum?carvi,18.88
+N32-3,N32,N+,Euphorbia?esula?,2.8
+N32-3,N32,N+,Kobresia?myosuroides,1.12
+N32-3,N32,N+,Koeleria cristata,5.76
+N32-3,N32,N+,Carex?limosa,115.28
+N32-3,N32,N+,Cremanthodium?lineare,2.1316
+N32-3,N32,N+,Polygonum?viviparum,17
+N32-4,N32,N+,Anemone?rivularis,1.92
+N32-4,N32,N+,Elymus?nutans,12.28
+N32-4,N32,N+,Deschampsia?caespitosa,194.92
+N32-4,N32,N+,Euphorbia?esula?,0.436
+N32-4,N32,N+,Kobresia?myosuroides,0.6112
+N32-4,N32,N+,Koeleria cristata,4.9248
+N32-4,N32,N+,Carex?limosa,138.76
+N32-4,N32,N+,Poa?pratensis,1.1052
+N32-4,N32,N+,Polygonum?viviparum,3.08
+N32-4,N32,N+,Festuca?rubra,3.12
+N32-5,N32,N+,Anemone?rivularis,2.88
+N32-5,N32,N+,Elymus?nutans,19.08
+N32-5,N32,N+,Deschampsia?caespitosa,33.8
+N32-5,N32,N+,Commelina diffusa,0.1244
+N32-5,N32,N+,Euphorbia?esula?,6.04
+N32-5,N32,N+,Kobresia?myosuroides,6.6
+N32-5,N32,N+,Carex?limosa,135.44
+N32-5,N32,N+,Cremanthodium?lineare,0.6772
+N32-5,N32,N+,Polygonum?viviparum,62.92
